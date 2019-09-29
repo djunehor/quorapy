@@ -1,0 +1,5 @@
+.idea/
+build/
+dist/
+quorapy.egg-info/
+convert.py
